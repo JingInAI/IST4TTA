@@ -1,0 +1,12 @@
+*__pycache__/
+
+others/
+results/
+data/CIFAR10/
+data/datasets/
+
+*.jpg
+*.png
+*.txt
+*.log
+*.pth
