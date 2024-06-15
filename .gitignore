@@ -2,11 +2,12 @@
 
 others/
 results/
-data/CIFAR10/
-data/datasets/
+data/
+!data/ModelZoo/
 
 *.jpg
 *.png
 *.txt
 *.log
 *.pth
+!requirements.txt
